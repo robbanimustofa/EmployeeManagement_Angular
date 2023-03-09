@@ -65,6 +65,7 @@ a:hover {
   padding: 18px 100px;
   border-radius: 50px;
   transition: all 0.3s;
+  margin-top: 20px;
 }
 .submit-btn:hover {
   background: rgb(204,204,204);

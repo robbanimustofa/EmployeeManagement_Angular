@@ -78,3 +78,7 @@ a:hover {
 .last {
   margin-bottom: 40px;
 }
+
+.p-tabview .p-tabview-panels {
+    background-color:  none ;
+  }

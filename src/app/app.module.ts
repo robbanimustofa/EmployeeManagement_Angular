@@ -5,12 +5,14 @@ import { AppComponent } from './app.component';
 import { LoginComponent } from './login/login/login.component';
 import { SingupComponent } from './singup/singup.component';
 import { TabViewModule } from 'primeng/tabview';
+import { DashboardComponent } from './dashboard/dashboard.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
-    SingupComponent
+    SingupComponent,
+    DashboardComponent
   ],
   imports: [
     BrowserModule,
